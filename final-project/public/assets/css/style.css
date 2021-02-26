@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(206, 206, 199);
+}
+
+li{
+    list-style: none;
+}
+.container{
+    margin-top: 20px;
+    width: 1000px;
+}
+.st-header{
+    padding: 10px;
+    background-color: brown;
+    border-radius: 5px;
+}
+
+.st-header img{
+    padding-top: 5px;
+    height: 100px;
+    width: 150px;
+}
+.st-header h1{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+.st-header p{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+/*============ Items-button ============*/
+
+.items-button{
+    margin-top: 100px;
+}
+
+.items-button ul li{
+    font-size: 20px;
+    color: rgb(82, 82, 44);
+}
+.items-button a.btn.btn-danger{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.items-button a.btn.btn-primary{
+    margin-top: 30px;
+    font-size: 20px;
+}
+/*.st-border{*/
+/*    border: 1px solid rgb(202, 177, 177);*/
+/*    border-radius: 5px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
+.st-border i{
+    float: right;
+    padding: 10px;
+    font-size: 30px;
+    color: brown;
+}
+.st-border p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+/*============ Registration form ============*/
